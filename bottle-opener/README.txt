@@ -1,5 +1,8 @@
 Bottle opener made from the same materials as the Inventables bottle opener.
 
+If you have some of the Easel milled bottle openers, you can line it up
+and re-use the metal! ~ recycling ~
+
 The drawing is fairly self-explanatory. Make sure to mill the items in the "SHARED"
 layer are milled on all parts.
 
@@ -14,4 +17,7 @@ opener. This pocket is the effector on the bottle opener.
     to be a poor choice. Don't make my mistake.
 
 I used a 1mm two flute endmill with some coolant, milling about 0.02mm deeper
-than the material. 
+than the material. In terms of milling parameters, if your CAM software supports
+it, use a Spiral cutting pattern. It just is nicer.
+
+Clean using isopropyl and high-grit sandpaper, towel, water. 
